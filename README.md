@@ -6,7 +6,7 @@ Physics-informed graph neural networks for classifying vascular pathologies usin
 
 In real microvascular imaging, you observe blood flow in a small fraction of vessels. Can you infer the disease state of the whole network from these sparse, noisy measurements?
 
-We generate synthetic pathology data using a first-principles Hagen–Poiseuille flow solver on real vascular graph topologies, then train classifiers to distinguish three conditions:
+We generate synthetic pathology data based on experimental data sets using a first-principles Hagen–Poiseuille flow solver on real vascular graph topologies, then train classifiers to distinguish three conditions:
 
 | Class | Mechanism | Flow signature |
 |---|---|---|
@@ -45,6 +45,13 @@ Built entirely in **JAX/Flax** with:
 - Flax `linen` modules for all three architectures
 
 ## Data
+Microvascular network data courtesy of T.W. Secomb, Department of Physiology,
+University of Arizona. Original data and additional networks available at:
+https://sites.arizona.edu/secomb/microvascular-networks-3d-structural-information/
+
+And are presented in this publication:
+
+Pries, A.R., Secomb, T.W., Gaehtgens, P. and Gross, J.F. Blood flow in microvascular networks – Experiments and simulation. Circulation Research 67: 826-834 (1990)
 
 Two real microvascular network topologies extracted from experimental imaging data:
 
