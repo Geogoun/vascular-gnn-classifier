@@ -105,7 +105,7 @@ See `requirements.txt` for pinned versions.
 This project is part of a broader research program on transport and optimization in physical networks:
 
 - **G. Gounaris, E. Katifori.** *Braess's Paradox Analog in Physical Networks of Optimal Exploration.* Phys. Rev. Lett. 133, 067401 (2024). [arXiv:2303.02146](https://arxiv.org/abs/2303.02146)
-- **G. Gounaris, M. Ruiz Garcia, E. Katifori.** *The Central Role of Metabolism in Vascular Morphogenesis.* [arXiv:2111.04657](https://arxiv.org/abs/2111.04657)
+- **G. Gounaris, et al.** *The Central Role of Metabolism in Vascular Morphogenesis.* [arXiv:2111.04657](https://arxiv.org/abs/2111.04657)
 
 ## License
 
