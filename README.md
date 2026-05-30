@@ -46,7 +46,9 @@ Built entirely in **JAX/Flax** with:
 
 ## Data
 
-Two real microvascular network topologies extracted from experimental imaging data:
+Two real microvascular network topologies extracted from experimental imaging data courtesy of T.W. Secomb, Department of Physiology,
+University of Arizona. Original data and additional networks available at:
+https://sites.arizona.edu/secomb/microvascular-networks-3d-structural-information/
 
 ```
 data/
@@ -106,6 +108,11 @@ This project is part of a broader research program on transport and optimization
 
 - **G. Gounaris, E. Katifori.** *Braess's Paradox Analog in Physical Networks of Optimal Exploration.* Phys. Rev. Lett. 133, 067401 (2024). [arXiv:2303.02146](https://arxiv.org/abs/2303.02146)
 - **G. Gounaris, M. Ruiz Garcia, E. Katifori.** *The Central Role of Metabolism in Vascular Morphogenesis.* [arXiv:2111.04657](https://arxiv.org/abs/2111.04657)
+
+The microvascular network data used in this project is from:
+
+- A.R. Pries, T.W. Secomb, P. Gaehtgens, and J.F. Gross. *Blood flow in microvascular networks — Experiments and simulation.* Circulation Research 67: 826–834 (1990).
+
 
 ## License
 
