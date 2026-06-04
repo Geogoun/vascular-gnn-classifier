@@ -114,6 +114,3 @@ The microvascular network data used in this project is from:
 - A.R. Pries, T.W. Secomb, P. Gaehtgens, and J.F. Gross. *Blood flow in microvascular networks — Experiments and simulation.* Circulation Research 67: 826–834 (1990).
 
 
-## License
-
-MIT
